@@ -96,7 +96,7 @@ author:
   avatar: '/assets/images/avatar.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: 'Love people who code'
   location: 'India'
-  email: 'vaibhav.hariramani01dev@gmail.com'
+  email: 'vaibhav.hariramani01@gmail.com'
   links:
     - label: 'Website'
       icon: 'fas fa-fw fa-link'
