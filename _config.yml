@@ -95,8 +95,8 @@ author:
   name: *name
   avatar: '/assets/images/avatar.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: 'Love people who code'
-  location: 'Paris, France'
-  email: 'tienduy.nguyen.dev@gmail.com'
+  location: 'India'
+  email: 'vaibhav.hariramani01dev@gmail.com'
   links:
     - label: 'Website'
       icon: 'fas fa-fw fa-link'
